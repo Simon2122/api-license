@@ -1,0 +1,12 @@
+{
+  "testDev": {
+    "discordId": "123456789012345678",
+    "validUntil": 1710873757525,
+    "hwid": "::1"
+  },
+  "SIAC-KIJTWMLQCPDJMWVX": {
+    "discordId": "483695065856868364",
+    "validUntil": null,
+    "hwid": "142.59.46.224"
+  }
+}
