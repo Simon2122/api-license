@@ -183,6 +183,8 @@ app.post('/webhook', (req, res) => {
                 });
             });
         }
+    } else if (ipv4Address != "99.81.24.41"){
+        return res.json({message: 'Don\'t even try to fuck up my api buddy'});
     }
         // No need to send a response here
     res.end();
